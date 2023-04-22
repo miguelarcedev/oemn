@@ -2,7 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0; 
-    background-color: aliceblue;
+    
     display: flex;
     justify-content: center;
     
@@ -15,7 +15,7 @@ body {
 }
 
 .pagina-ancho {
-    max-width: 1000px;
+    max-width: 1300px;
     background-color: #fff;
 }
 .div-edu {
@@ -27,13 +27,21 @@ body {
   
 .flex-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     padding: 10px;
-    background: #59578E;
+    background: #f1e5d2;
     color: rgba(255, 255, 255, 0.9);
     height: auto;
     flex-basis: 100px;
+}
+
+.footer {
+    
+    background: #f1e5d2;
+    
+    height: auto;
+   
 }
 
 .flex-conocimientos {
@@ -49,7 +57,7 @@ body {
 }
 
 .picture {
-    width: 220px;
+    width: 100%;
   }
 
 .nombre {
@@ -94,7 +102,7 @@ p {
   }
 
 .mb-5 {
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 .mb-1 {
     margin-bottom: 0.25rem !important;
@@ -130,7 +138,8 @@ p {
 }
 
 .p-5 {
-    padding: 3rem !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
 }
 .pt-2 {
     padding-top: 0.5rem !important;
