@@ -21,9 +21,7 @@ body {
 .div-edu {
     width: 200px;
 }
-.div-conocimiento {
-    width: 200px;
-}
+
   
 .flex-container {
     display: flex;
@@ -44,17 +42,7 @@ body {
    
 }
 
-.flex-conocimientos {
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-}
 
-.flex-educacion {
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-}
 
 .picture {
     width: 100%;
@@ -66,10 +54,6 @@ body {
     
 }
 
-.profesion {
-    font-size: 1.25rem;
-    letter-spacing: 0.175rem;
-}
 
 
 .list-unstyled {
@@ -78,7 +62,7 @@ body {
 }
 
 p {
-    margin-top: 0;
+    margin-top: 10;
     margin-bottom: 1rem;
 }
 
