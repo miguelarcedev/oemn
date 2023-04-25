@@ -48,6 +48,10 @@ body {
     width: 100%;
   }
 
+  .picture-index {
+    width: 100%;
+  }
+
 .nombre {
     font-size: 2rem;
     letter-spacing: 0.175rem;
@@ -224,6 +228,10 @@ p {
       width: 120px;
       border-radius: 4px;
     }
+    .picture-index {
+        width: 350px;
+        border-radius: 4px;
+      }
     .nombre {
         margin-top: auto;
         font-size: 1.25rem;
@@ -250,6 +258,9 @@ p {
         width: 120px;
         border-radius: 4px;
     }
+    .picture-index {
+        width: 350px;
+        border-radius: 4px;
     .nombre {
           margin-top: auto;
           font-size: 1.25rem;         
