@@ -29,7 +29,7 @@ body {
     flex-wrap: wrap;
     padding: 10px;
     background: #f1e5d2;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(39, 36, 36, 0.9);
     height: auto;
     flex-basis: 100px;
 }
@@ -41,8 +41,6 @@ body {
     height: auto;
    
 }
-
-
 
 .picture {
     width: 100%;
@@ -57,8 +55,6 @@ body {
     letter-spacing: 0.175rem;
     
 }
-
-
 
 .list-unstyled {
     padding-left: 0;
